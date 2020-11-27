@@ -44,4 +44,4 @@ detection models of iSarcasm, is reported in the paper, with extra details in th
     }
 
 ## Contact
-Have fun and let me know how it goes! silviu.oprea@ed.ac.uk, @_silviu_oprea_
+Have fun and let me know how it goes! silviu.oprea@ed.ac.uk, @\_silviu\_oprea\_
