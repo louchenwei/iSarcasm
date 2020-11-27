@@ -23,11 +23,14 @@ file has the format `tweet_id,sarcasm_label,sarcasm_type`,
 where `sarcasm_type` are only defined for sarcastic tweets,
 as specified above.
 
+## Why iSarcasm
 What sets iSarcasm apart from other datasets is the fact that the labels have been provided by the
 authors of the tweets themselves. The labels therefore reflect the sarcastic intention of the authors, 
 eliminating the noise that previous labelling methods such as manual labelling and tag-based distant 
 supervision can induce, considering the subjective nature of sarcasm. The dataset was also subjected 
 to strict quality control and a further verification by a human trained linguistics.
+
+## Paper
 
 Full details about the data collection steps, as well as the performance of state-of-the-art sarcasm 
 detection models of iSarcasm, is reported in the paper, with extra details in the supplement. The paper appeared at ACL 2020. You can find it here: https://www.aclweb.org/anthology/2020.acl-main.118. It can be cited as follows:
