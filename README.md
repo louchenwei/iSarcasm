@@ -42,3 +42,6 @@ detection models of iSarcasm, is reported in the paper, with extra details in th
         year = "2020",
         publisher = "Association for Computational Linguistics",
     }
+
+## Contact
+Have fun and let me know how it goes! silviu.oprea@ed.ac.uk, @_silviu_oprea_
