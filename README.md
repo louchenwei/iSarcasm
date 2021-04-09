@@ -28,7 +28,7 @@ What sets iSarcasm apart from other datasets is the fact that the labels have be
 authors of the tweets themselves. The labels therefore reflect the sarcastic intention of the authors, 
 eliminating the noise that previous labelling methods such as manual labelling and tag-based distant 
 supervision can induce, considering the subjective nature of sarcasm. The dataset was also subjected 
-to strict quality control and a further verification by a human trained linguistics.
+to strict quality control and a further verification by a human trained in linguistics.
 
 ## Paper
 
